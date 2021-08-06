@@ -1,9 +1,4 @@
 # ecs36A
 
-Programs:
+Homework assignments from ecs36A.
 
-Monty Hall
-
-Birthday Problem
-
-Binary Tree 
